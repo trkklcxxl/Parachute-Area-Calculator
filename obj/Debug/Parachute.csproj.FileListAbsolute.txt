@@ -1,0 +1,10 @@
+C:\Users\t-t_a\source\repos\Parachute\bin\Debug\Parachute.exe.config
+C:\Users\t-t_a\source\repos\Parachute\bin\Debug\Parachute.exe
+C:\Users\t-t_a\source\repos\Parachute\bin\Debug\Parachute.pdb
+C:\Users\t-t_a\source\repos\Parachute\obj\Debug\Parachute.csproj.AssemblyReference.cache
+C:\Users\t-t_a\source\repos\Parachute\obj\Debug\Parachute.Form1.resources
+C:\Users\t-t_a\source\repos\Parachute\obj\Debug\Parachute.Properties.Resources.resources
+C:\Users\t-t_a\source\repos\Parachute\obj\Debug\Parachute.csproj.GenerateResource.cache
+C:\Users\t-t_a\source\repos\Parachute\obj\Debug\Parachute.csproj.CoreCompileInputs.cache
+C:\Users\t-t_a\source\repos\Parachute\obj\Debug\Parachute.exe
+C:\Users\t-t_a\source\repos\Parachute\obj\Debug\Parachute.pdb
